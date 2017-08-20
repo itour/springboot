@@ -1,4 +1,4 @@
-# springboot
+# Spring Boot
 
 ### Spring、Spring MVC和Spring Boot的区别
 
