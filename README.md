@@ -38,3 +38,7 @@ Spring 最初利用“工厂模式”（ DI ）和“代理模式”（ AOP ）�
 
 【一个接口对应一个】
 多个服务操纵同一个数据表，使用同一片缓存，每个接口出问题，都不会影响其他接口。
+
+### Swagger Tools
+
+https://github.com/swagger-api/swagger-codegen
