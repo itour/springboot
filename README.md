@@ -42,3 +42,7 @@ Spring 最初利用“工厂模式”（ DI ）和“代理模式”（ AOP ）�
 ### Swagger Tools
 
 https://github.com/swagger-api/swagger-codegen
+
+### Spring Boot with Mybatis
+
+git clone git@github.com:JeffLi1993/springboot-learning-example.git
